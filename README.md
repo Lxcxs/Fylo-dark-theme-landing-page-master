@@ -1,4 +1,6 @@
 #Link: https://lxcxs.github.io/Fylo-dark-theme-landing-page-master/
+(the images are buggy because there is a "/" before the folder name, I fixed it but I don't know why the link still fails)
+(as imagens estão bugadas porque tem um "/" antes do nome da pasta, eu consertei, mas não sei porque ainda falha no link)
 
 # Frontend Mentor - Fylo dark theme landing page
 
